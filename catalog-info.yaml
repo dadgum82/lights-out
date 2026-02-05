@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: lights-out
+  description: Lights Out game application
+  annotations:
+    github.com/project-slug: dadgum82/lights-out
+spec:
+  type: website
+  owner: group:default/admins
+  lifecycle: experimental
