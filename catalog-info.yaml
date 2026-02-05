@@ -5,6 +5,7 @@ metadata:
   description: Lights Out game application
   annotations:
     github.com/project-slug: dadgum82/lights-out
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   owner: group:default/admins
