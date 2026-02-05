@@ -1,0 +1,6 @@
+site_name: Lights Out
+site_description: Lights Out game documentation
+plugins:
+  - techdocs-core
+nav:
+  - Home: index.md
